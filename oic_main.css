@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Create_Events {
+	
+}
+
+#Inform_from_Name_Events {
+	position:relative;
+
+}
+#Name_Events {
+	position:absolute;
+	left:300px;	
+}
+h2 {
+	text-align:center;
+}
+
+#Table_Name_Events tr:hover {
+	background-color:#F66;
+	
+}
+
+
+
